@@ -14,18 +14,18 @@ The pipelines are as follows:
 Each analysis in McCarthy & Fitzpatrick (in revision) using these pipelines was performed on a HPC cluster with a PBS scheduler. These pipelines have also been tested in other Linux and macOS environments.
 
 - Python
-  - Biopython
+  - [Biopython](https://biopython.org/)
 
 - R
-  - Cairo
-  - UpSetR
-  - ggplot2
-  - ggrepel
+  - [Cairo](https://cran.r-project.org/web/packages/Cairo/index.html)
+  - [UpSetR](https://cran.r-project.org/web/packages/UpSetR/README.html)
+  - [ggplot2](https://ggplot2.tidyverse.org/)
+  - [ggrepel](https://cran.r-project.org/web/packages/ggrepel/index.html)
 
-- BLAST+
+- [BLAST+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
 
 - [Exonerate](https://www.ebi.ac.uk/about/vertebrate-genomics/software/exonerate)
 
-- GeneMark-ES
+- [GeneMark-ES](http://exon.gatech.edu/GeneMark/gmes_instructions.html)
 
-- TransDecoder
+- [TransDecoder](https://github.com/TransDecoder/TransDecoder/wiki)
