@@ -11,7 +11,7 @@ The pipelines are as follows:
 
 ## Requirements
 
-Each analysis in McCarthy & Fitzpatrick (in revision) was performed using a HPC with a PBS scheduler. As such, these pipelines are intended for 
+Each analysis in McCarthy & Fitzpatrick (in revision) using these pipelines was performed on a HPC cluster with a PBS scheduler. These pipelines have also been tested in other Linux and macOS environments.
 
 - Python
   - Biopython
@@ -24,7 +24,7 @@ Each analysis in McCarthy & Fitzpatrick (in revision) was performed using a HPC 
 
 - BLAST+
 
-- Exonerate
+- [Exonerate](https://www.ebi.ac.uk/about/vertebrate-genomics/software/exonerate)
 
 - GeneMark-ES
 
