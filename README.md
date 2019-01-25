@@ -1,6 +1,6 @@
 # Pan-genome analyses of model Fungal species.
 
-**Charley G. P. McCarthy & David A. Fitzpatrick (submitted).**
+**Charley G. P. McCarthy & David A. Fitzpatrick (2019). *Microbial Genomics*. doi: 10.1099/mgen.0.000243. [Link].**
 
 This repository holds custom pipelines used to analyse the pan-genomes of four model fungal species; *Saccharomyces cerevisiae*, *Candida albicans*, *Cryptococcus neoformans* var. *grubii* and *Aspergillus fumigatus*.
 
@@ -11,7 +11,7 @@ The pipelines are as follows:
 
 ## Requirements
 
-Each analysis in McCarthy & Fitzpatrick (in revision) using these pipelines was performed on a HPC cluster with a PBS scheduler. These pipelines have also been tested in other Linux and macOS environments.
+Each analysis in McCarthy & Fitzpatrick (2019) using these pipelines was performed on a HPC cluster with a PBS scheduler. These pipelines have also been tested in other Linux and macOS environments.
 
 - Python
   - [Biopython](https://biopython.org/)
